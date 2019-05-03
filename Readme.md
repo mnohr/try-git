@@ -1,2 +1,2 @@
-new file
-file2
+# initial commit
+git project
